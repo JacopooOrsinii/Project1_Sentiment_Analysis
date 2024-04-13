@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 
 L'analisi del sentimento rappresenta una tecnica nell'ambito del natural language processing (NLP) che consiste nel determinare e comprendere le opinioni, le emozioni e le attitudini espressi in un dato testuale. Questa tecnica può avere delle applicationi utili per le aziende, come il social media monitoring o il customer feedback analysis.
 
